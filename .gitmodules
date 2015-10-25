@@ -4,3 +4,30 @@
 [submodule "public/kevthehermit"]
 	path = public/kevthehermit
 	url = https://github.com/kevthehermit/YaraRules
+[submodule "public/3vangel1st"]
+	path = public/3vangel1st
+	url = https://github.com/3vangel1st/Yara
+[submodule "public/blacktop-docker-yara"]
+	path = public/blacktop-docker-yara
+	url = https://github.com/blacktop/docker-yara
+[submodule "public/sysforensics"]
+	path = public/sysforensics
+	url = https://github.com/sysforensics/YaraRules
+[submodule "public/Phoul"]
+	path = public/Phoul
+	url = https://github.com/Phoul/yara_rules
+[submodule "public/nyx0"]
+	path = public/nyx0
+	url = https://github.com/nyx0/yar4m
+[submodule "public/Yara-Rules"]
+	path = public/Yara-Rules
+	url = https://github.com/Yara-Rules/rules
+[submodule "public/phbiohazard"]
+	path = public/phbiohazard
+	url = https://github.com/phbiohazard/Yara
+[submodule "public/0pc0deFR"]
+	path = public/0pc0deFR
+	url = https://github.com/0pc0deFR/YaraRules
+[submodule "public/citizenlab"]
+	path = public/citizenlab
+	url = https://github.com/citizenlab/malware-signatures
