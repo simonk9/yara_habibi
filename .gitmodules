@@ -1,0 +1,6 @@
+[submodule "public/1aN0rmus"]
+	path = public/1aN0rmus
+	url = https://github.com/1aN0rmus/Yara
+[submodule "public/kevthehermit"]
+	path = public/kevthehermit
+	url = https://github.com/kevthehermit/YaraRules
